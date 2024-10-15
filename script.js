@@ -1,3 +1,3 @@
 function mostrarMensaje(){
-    alert(HOLA!!!, Bienvenidos... );
+    alert(HOLA!!!, Bienvenidos...);
 }
