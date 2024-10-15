@@ -7,8 +7,15 @@ body{
     color: lightslategray;
 }
 header{
-    background-color: rgb(23, 44, 3);
+    background-color: rgba(110, 223, 231, 0.993);
     color: white;
     text-align: center;
     padding: 20px;
+}
+section{
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px grey;
 }
