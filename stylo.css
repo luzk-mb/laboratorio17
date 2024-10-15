@@ -7,7 +7,7 @@ body{
     color: lightslategray;
 }
 header{
-    background-color: rgba(110, 223, 231, 0.993);
+    background-color: rgb(71, 241, 65);
     color: white;
     text-align: center;
     padding: 20px;
@@ -18,4 +18,17 @@ section{
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 4px 8px grey;
+}
+h2{
+    color: rgb(15, 187, 9);
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+ul li{
+    background-color: rgb(51, 97, 4);
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
 }
