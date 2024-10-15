@@ -1,6 +1,3 @@
-function mostrarMensaje(){
-
-}
 // Validación de formulario
 const form = document.getElementById('contactForm');
 form.addEventListener('submit', 
