@@ -65,3 +65,11 @@ button{
 button{
     background-color: rgb(51, 164, 168);
 }
+/*enlaces*/
+a{
+    color: aquamarine;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
